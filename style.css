@@ -47,7 +47,7 @@ body, html {
 }
 
 .title {
-    color: grey;
+    color: darkslategrey;
     font-size: 18px;
 }
 
@@ -55,4 +55,10 @@ a {
     text-decoration: none;
     font-size: 22px;
     color: black;
+}
+
+.project-item a {
+    text-decoration: none;
+    font-size: 22px;
+    color: darkblue
 }
